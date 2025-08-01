@@ -5,7 +5,8 @@ A userscript that automatically reviews your games on Chess.com from the game ar
 # Installation
 
 1. Install the Tampermonkey extension on your browser: https://www.tampermonkey.net/
-2. Click this link to install the script: https://github.com/NamuChon/auto-chesscom-game-review/raw/refs/heads/main/auto-review.user.js
+2. Enable the settings "Allow User Scripts" and "Developer mode". On Chrome, click the puzzle icon on the top -> click three dots on the Tampermonkey extension -> Manage Extension -> "Allow User Scripts" from the menu and "Developer mode" on top right.
+3. Click this link to install the script: https://github.com/NamuChon/auto-chesscom-game-review/raw/refs/heads/main/auto-review.user.js
 
 # Usage
 
