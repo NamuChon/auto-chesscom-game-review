@@ -14,7 +14,7 @@ A userscript that automatically reviews your games on Chess.com from the game ar
 2. Go to your Chess.com game archive: https://www.chess.com/games/archive
 3. (Optional) You can use the "Game History" sidebar to filter games you want to review or skip pages to decide the starting point. The script will not change the settings.
 4. Enable the script.
-5. Refresh the screen. The script will start reviewing the games one by one.
+5. Refresh the screen. The script will start reviewing the games one by one. It will skip already reviewed ones.
 
 # Notes
 
