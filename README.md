@@ -19,7 +19,7 @@ A userscript that automatically reviews your games on Chess.com from the game ar
 ## Notes
 
 - This script does not bypass Chess.com restrictions, you still need a Chess.com membership for unlimited reviews. However, it's possible for a membership user to run the script for others by changing "My Games" to "Others' Games" on the Game History sidebar on the game archive page.
-- The script will not stop automatically until all archive pages are processed. You can close the tab or go the Chess.com hompage then disable the script or Tampermonkey itself.
+- The script will not stop automatically until all archive pages are processed. You can close the tab or go to the Chess.com hompage then disable the script or Tampermonkey itself.
 
 ## Test Run
 https://drive.google.com/file/d/1AnM1k6aooJbjQQOcG2l60Rg9j85wK-xq/view?usp=drive_link
